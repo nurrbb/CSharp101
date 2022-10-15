@@ -33,6 +33,4 @@ object number9 = 7915;
 DateTime date = DateTime.Now; // Tarihi gösterir
 System.Console.WriteLine(date);
 
-const  float pi = 3.14F; // const anahtar kelimesini sabit bir değişken oluşturulmak istendiğinde kullanılır
-
-
+const  float pi = 3.14F; // const anahtar kelimesini sabit bir değişken oluşturulmak istendiğinde kullanılır.
