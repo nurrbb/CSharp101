@@ -56,10 +56,10 @@ int x = 5;
 int y = 6;
 
 y = y + 2;
-y += 2;  // üsttekinin kısa syntaxı
+// y += 2;   üsttekinin kısa syntaxı
 
 x = x * 4;
-x *= 4;  //kısa syntax
+// *= 4;  kısa syntax
 
 bool isTrue = true;
 bool isFalse = false;

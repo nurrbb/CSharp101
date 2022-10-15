@@ -1,0 +1,5 @@
+C:\Users\enurb\Desktop\patika\net\operators\obj\Debug\net6.0\operators.csproj.AssemblyReference.cache
+C:\Users\enurb\Desktop\patika\net\operators\obj\Debug\net6.0\operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enurb\Desktop\patika\net\operators\obj\Debug\net6.0\operators.AssemblyInfoInputs.cache
+C:\Users\enurb\Desktop\patika\net\operators\obj\Debug\net6.0\operators.AssemblyInfo.cs
+C:\Users\enurb\Desktop\patika\net\operators\obj\Debug\net6.0\operators.csproj.CoreCompileInputs.cache
